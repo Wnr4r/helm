@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  todo-api:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-01-25T14:42:38.721929+02:00"
+    dependencies:
+    - name: mongodb
+      repository: https://charts.bitnami.com/bitnami
+      version: 13.6.1
+    description: A Helm chart for Kubernetes
+    digest: 4c3664a93ebfef16f4bddc93d52d1c4b0e2357dccbd4a8d452a41fb50ee60284
+    name: todo-api
+    type: application
+    urls:
+    - todo-api-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-01-25T14:42:38.714922+02:00"
